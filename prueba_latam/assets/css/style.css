@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-image: url("../img/banner_2.jpg");
+  background-size: cover;
+  background-position: center; 
+  width: 100%;
+  padding-bottom: 200px;
+  padding-top: 100px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.header_2 {
+  background-image: url("../img/banner_1.jpg");
+  background-size: cover;
+  background-position: center; 
+  width: 100%;
+  padding-bottom: 200px;
+  padding-top: 100px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.header_3 {
+  background-image: url("../img/banner_3.jpg");
+  background-size: cover;
+  background-position: center; 
+  width: 100%;
+  padding-bottom: 200px;
+  padding-top: 100px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.navbar{
+  position: fixed;
+  width: 100%;
+}
+
+.center-block{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.logo {
+width: 100px; 
+height: 100px;
+margin-top: -10px;
+
+}
+
+.footer {
+  color: #F0F0F0;
+  background-color: #008cd2;
+  text-align: center;
+  padding: 20px 80px;
+}
+.form {
+  text-align: center;
+  margin: 5px;
+}
+
+
+.noticias_home {
+  background-color: #008cd2;
+}
+
+
+h1 {
+  text-align: center;
+  color:white;
+  font-size: 40px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 800;
+}
+h2 {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 800;
+}
+h3 {
+  color:black;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 800;
+}
+
+.titulo_header {
+  color:#252525;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color:black;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+}
+
+
+
+ .box_3{  
+    height: 500px; 
+    position: relative;
+  }
